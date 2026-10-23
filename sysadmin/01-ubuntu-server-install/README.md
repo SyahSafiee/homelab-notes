@@ -1,5 +1,10 @@
+# 01 UBUNTU SERVER INSTALL (VIRTUALBOX)
+
 ## GOAL
-Install and setup ubuntu server vm on my working laptop
+Build my first practice server: install Ubuntu Server in a ** VirtualBox VM **, patch it, connect over SSH, and set up snapshots so I can break things and restore safely.
+
+## ENVIRONMENT
+**sssmsmms** sjsjsjjs
 
 ## CONCEPTS
 
